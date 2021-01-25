@@ -1,0 +1,14 @@
+в строках 8, 9, 10 в master в самом центре находятся нули,
+в удаленной ветке demo нулей нет.
+
+в ветке master всего 10 коммитов:
+1) init
+2) heat added
+3) boots
+4) README added
+5) dots
+6) fix readme
+7) Merge remote-tracking branch 'origin/boots' into boots_buttons
+8) Merge remote-tracking branch 'origin/buttons' into boots_buttons
+9) Merge remote-tracking branch 'origin/hat'
+10) Merge remote-tracking branch '1/boots_buttons'
